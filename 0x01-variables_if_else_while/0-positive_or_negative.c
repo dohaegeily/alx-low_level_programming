@@ -4,7 +4,7 @@
 
 /* more headers goes there */
 /* main - Entry poinit */
-
+/* return : 0 (success) */
 /* betty style doc for function main goes there */
 
 int main(void)
@@ -15,11 +15,11 @@ int main(void)
 	n = rand() - RAND_MAX / 2;
 	if (n > 0)
 	{
-	printf("is positive");
+	printf("%i is positive\n", n);
 	else if (n < 0)
-	printf("is negative");
+	printf("%i is negative\n", n);
 	else if (n == 0)
-	printf("is zero");
+	printf("%i is zero\n", n);
 	}
 	return (0);
 }
