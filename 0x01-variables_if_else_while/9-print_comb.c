@@ -7,7 +7,6 @@
 int main(void)
 {int i = 48;
 int x = 44;
-int z = 36;
 while (i <= 57)
 {
 putchar(i);
@@ -18,6 +17,5 @@ putchar(' ');
 }
 i++;
 }
-putchar(z);
 return (0);
 }
