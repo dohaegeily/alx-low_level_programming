@@ -2,8 +2,10 @@
 
 /**
  * print_numbers - print 0 - 9
+ *
  * only using putchar twice
- * Return always 0 (success)
+ *
+ * Return: always 0 (success)
  */
 
 void print_numbers(void)
