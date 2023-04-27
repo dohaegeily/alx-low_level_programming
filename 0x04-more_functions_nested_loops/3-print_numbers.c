@@ -3,9 +3,9 @@
 /**
  * print_numbers - print 0 - 9
  *
- * only using putchar twice
+ * only using _ putchar twice
  *
- * Return: always 0 (success)
+ * Return: Always 0 (Success)
  */
 
 void print_numbers(void)
