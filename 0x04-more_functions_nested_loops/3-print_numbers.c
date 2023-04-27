@@ -5,6 +5,8 @@
  *
  * only using _ putchar twice
  *
+ * * main - check the code
+ *
  * Return: Always 0 (Success)
  */
 
@@ -17,4 +19,5 @@ void print_numbers(void)
 		num++
 	} while (num >= 0 && num <= 9);
 	_putchar ('\n');
+	return (0);
 }
