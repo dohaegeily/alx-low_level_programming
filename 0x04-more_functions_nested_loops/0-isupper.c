@@ -5,6 +5,7 @@
  *
  * @c: input of alphabet
  *
+ * Return: Always 0.
  * Retur: 1 if its uppercase. 0 if not
  */
 int _isupper(int c)
