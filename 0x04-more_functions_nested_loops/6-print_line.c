@@ -3,8 +3,7 @@
 /**
  * print_line - draws a straight line in the terminal
  * @n: print n
- * main - check the code
- * Return: Always 0
+ * Return: Always 0.
  */
 
 void print_line(int n)
