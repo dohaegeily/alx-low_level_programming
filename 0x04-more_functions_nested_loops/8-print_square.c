@@ -1,6 +1,7 @@
 #include "main.h"
 
 /**
+ *main - check the code
  *print_square - prints a square followed by new line
  *@size: size of square
  */
