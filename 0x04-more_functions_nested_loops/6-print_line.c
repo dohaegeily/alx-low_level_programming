@@ -19,7 +19,7 @@ for (i = 0; i < n; i++)
 _putchar(95);
 }
 
-_piutchar('\n');
+_putchar('\n');
 }
 
 else
